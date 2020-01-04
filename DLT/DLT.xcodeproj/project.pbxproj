@@ -23,6 +23,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3D14C75B23C02A4400BA3A2D /* 2007年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2007年.h"; sourceTree = "<group>"; };
+		3D14C75C23C02A4D00BA3A2D /* 2008 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2008 年.h"; sourceTree = "<group>"; };
+		3D14C75D23C02A5500BA3A2D /* 2009 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2009 年.h"; sourceTree = "<group>"; };
+		3D14C75E23C02A5F00BA3A2D /* 2010 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2010 年.h"; sourceTree = "<group>"; };
+		3D14C75F23C02A6600BA3A2D /* 2011 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2011 年.h"; sourceTree = "<group>"; };
+		3D14C76023C02A6F00BA3A2D /* 2012 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2012 年.h"; sourceTree = "<group>"; };
+		3D14C76123C02A7C00BA3A2D /* 2013 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2013 年.h"; sourceTree = "<group>"; };
+		3D14C76223C02A8400BA3A2D /* 2014 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2014 年.h"; sourceTree = "<group>"; };
+		3D14C76323C02A8B00BA3A2D /* 2015 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2015 年.h"; sourceTree = "<group>"; };
+		3D14C76423C02A9200BA3A2D /* 2016 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2016 年.h"; sourceTree = "<group>"; };
+		3D14C76523C02A9E00BA3A2D /* 2017 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2017 年.h"; sourceTree = "<group>"; };
+		3D14C76623C02AA500BA3A2D /* 2018 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2018 年.h"; sourceTree = "<group>"; };
+		3D14C76723C02AAC00BA3A2D /* 2019 年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2019 年.h"; sourceTree = "<group>"; };
+		3D14C76823C02ABF00BA3A2D /* 2020年.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "2020年.h"; sourceTree = "<group>"; };
 		3D65F95D23113F0A003BFF36 /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
 		3DEAC9D622CC272F00C00D68 /* DLT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DLT; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEAC9D922CC272F00C00D68 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
@@ -74,6 +88,20 @@
 				3D65F95D23113F0A003BFF36 /* test.h */,
 				3DF1E9C5231439F20012C74E /* 买过的.h */,
 				3DEAC9E422CC280D00C00D68 /* 2007shuju.h */,
+				3D14C75B23C02A4400BA3A2D /* 2007年.h */,
+				3D14C75C23C02A4D00BA3A2D /* 2008 年.h */,
+				3D14C75D23C02A5500BA3A2D /* 2009 年.h */,
+				3D14C75E23C02A5F00BA3A2D /* 2010 年.h */,
+				3D14C75F23C02A6600BA3A2D /* 2011 年.h */,
+				3D14C76023C02A6F00BA3A2D /* 2012 年.h */,
+				3D14C76123C02A7C00BA3A2D /* 2013 年.h */,
+				3D14C76223C02A8400BA3A2D /* 2014 年.h */,
+				3D14C76323C02A8B00BA3A2D /* 2015 年.h */,
+				3D14C76423C02A9200BA3A2D /* 2016 年.h */,
+				3D14C76523C02A9E00BA3A2D /* 2017 年.h */,
+				3D14C76623C02AA500BA3A2D /* 2018 年.h */,
+				3D14C76723C02AAC00BA3A2D /* 2019 年.h */,
+				3D14C76823C02ABF00BA3A2D /* 2020年.h */,
 			);
 			path = DL;
 			sourceTree = "<group>";
